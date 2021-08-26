@@ -190,6 +190,14 @@ article {
   width: 3rem;
 }
 
+/* Font Awesome Styling */
+.fa-linkedin,
+.fa-github-square,
+.fa-envelope-square {
+  color: #9d4edd;
+
+}
+
 /* Tablet breakpoint */
 @media only screen and (min-width: 600px){
 
